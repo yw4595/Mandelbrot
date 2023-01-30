@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\bin\Debug\Mandelbrot.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\bin\Debug\Mandelbrot.exe
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\bin\Debug\Mandelbrot.pdb
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\obj\Debug\Mandelbrot.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\obj\Debug\Mandelbrot.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\obj\Debug\Mandelbrot.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\obj\Debug\Mandelbrot.exe
+C:\Users\Wiz\Desktop\IGME 201\Mandelbrot\obj\Debug\Mandelbrot.pdb
